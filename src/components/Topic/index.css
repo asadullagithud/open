@@ -1,0 +1,87 @@
+.topic-header {
+  background-color: #ffffff; /* Green */
+  border: none;
+  color: #c6c6c6;
+  padding: 3px 10px;
+  width: 14vh;
+  text-align: center;
+  font-size: 17px;
+  border-radius: 5px;
+  border: 1px solid #c6c6c6;
+  margin-bottom: 5px;
+}
+.list-style {
+  height: 6vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 30%;
+  margin-left: 5px;
+}
+.containerPop {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid gray;
+  width: 225px;
+  height: 35vh;
+  margin-left: 15px;
+  margin-top: 46px;
+  border-radius: 12px;
+  padding-top: 15px;
+}
+.simple {
+  color: #2e2e2e;
+  background-color: #ffffff;
+  width: 10vh;
+  font-size: 13px;
+  font-weight: 500;
+  margin-top: 12px;
+  margin-left: 140px;
+}
+.title-pop {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.containerPop {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 0px;
+}
+.para-pop {
+  font-family: "Arial";
+  font-size: 15px;
+  font-weight: 100;
+  color: #ffffff;
+  margin: 0px 5px;
+  padding: 5px 5px;
+}
+.header-pop {
+  font-family: "Arial SemiBold";
+  font-weight: 400;
+  font-size: 16px;
+  color: #ffffff;
+  margin: 0px 5px;
+  padding: 5px 5px;
+  height: 33.3%;
+}
+.state-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: rgb(247, 237, 224);
+  width: 225px;
+  height: auto;
+  margin: 0px 0px;
+  padding: 0px 0px;
+}
+.cross {
+  margin-left: 190px;
+  margin-top: 2px;
+}

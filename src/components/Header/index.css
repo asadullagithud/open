@@ -1,0 +1,48 @@
+.Header-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 360px;
+}
+.center_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.icon {
+  color: black;
+}
+.topic-control {
+  background-color: #ffffff;
+  border: 2px dashed rgb(253, 227, 231);
+  padding: 4px;
+  border-radius: 15px;
+  margin-right: 10px;
+  width: 65%;
+  font-size: 14px;
+  font-weight: 600;
+  font-family: "Bahnschrift SemiBold";
+}
+.image-coin {
+  width: 3.5vh;
+}
+.Header {
+  font-family: "Comfortaa,Regular";
+  font-weight: 600;
+  font-size: 22px;
+}
+.right-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 17vh;
+}
+.Left-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 17vh;
+}

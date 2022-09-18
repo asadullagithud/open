@@ -1,0 +1,38 @@
+.syllabusItem {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 340px;
+  height: 10vh;
+  margin-top: 25px;
+}
+.image {
+  width: 7vh;
+}
+.header-Syllabus {
+  font-family: "Bahnschrift SemiBold";
+  font-weight: 600;
+  font-size: 17px;
+  margin: 0px 0px;
+}
+.para-syllabus {
+  font-family: "Bahnschrift";
+  font-size: 12px;
+  margin: 0px 0px;
+  color: #c6c6c6;
+}
+.right-syllabus-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 40vh;
+  height: 11vh;
+  border-bottom: 2px solid rgb(241, 238, 238);
+}
+.image-button {
+  width: 5px;
+}
+.header-para {
+  margin-left: 9px;
+}

@@ -1,0 +1,25 @@
+.bottom-container {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 345px;
+}
+.icons-style {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+.para-ioc {
+  font-family: "Bahnschrift";
+  font-size: 14px;
+  margin: 0px 0px;
+  color: #c6c6c6;
+  margin-top: 10px;
+}
+.selected {
+  background-image: linear-gradient(to bottom right, #fc5d73, #ff993f);
+  color: #ffffff;
+}

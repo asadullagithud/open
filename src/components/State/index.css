@@ -1,0 +1,18 @@
+.state-style {
+  height: 6vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 42%;
+  margin-right: 15px;
+}
+.header-State {
+  font-family: "Bahnschrift";
+  font-weight: 700;
+  font-size: 10px;
+  color: #5f5e5e;
+}
+.percentage-container {
+  width: 22%;
+}
