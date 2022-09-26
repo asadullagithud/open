@@ -33,7 +33,6 @@ const Topic = (props) => {
   const classSelected = value ? "selected topic-header" : "topic-header";
   const stateChange = () => {
     renderStatePop();
-    console.log("sirisha");
   };
   return (
     <li className="list-style">
